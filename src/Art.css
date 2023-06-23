@@ -1,0 +1,17 @@
+.ArtNav {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: red;
+    color: black;
+}
+
+.ArtMain {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: blue;
+    color: black;
+    overflow: auto;
+}
+
